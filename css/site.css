@@ -72,6 +72,22 @@
       color: var(--tt-light-color)
   }
 
+  h1,
+  h2, 
+  h3,
+  h4,
+  h5,
+  h6{
+      color: var(--tt-dark-color)
+  }
+
+  .odd{
+      font-weight: 400 ;
+  }
+
+  .even{
+      font-weight: bold;
+  }
   .sticky-footer {
       position: sticky;
       left: 0;
