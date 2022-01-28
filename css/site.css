@@ -11,7 +11,9 @@
       min-height:90vh;
   }
 
-
+body{
+    background-color: lightslategrey !important;
+}
   /*-- Navbar Styles --*/
   .navbarBG {
       background-color: var(--tt-dark-color);
